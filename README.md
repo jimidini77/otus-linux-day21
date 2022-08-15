@@ -1,5 +1,5 @@
 # otus-linux-day21
-Zabbix
+Системы мониторинга. Zabbix. Prometheus.
 
 # **Prerequisite**
 - Host OS: Windows 10.0.19043
@@ -136,7 +136,7 @@ LISTEN         0               128                                  *:3306      
 
 ![Config Page](https://github.com/jimidini77/otus-linux-day21/blob/main/Screenshot01.png?raw=true)
 
-После настройки дашборда и сбора данных:
+После конфигурирования сервера, настройки дашборда и сбора данных:
 
 ![Dashboard](https://github.com/jimidini77/otus-linux-day21/blob/main/Screenshot02.png?raw=true)
 
