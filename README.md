@@ -134,12 +134,15 @@ LISTEN         0               128                                  *:3306      
 
 По настроенному адресу доступен интерфейс начального конфигурирования Zabbix:
 
-(Config Page)[]
+![Config Page](https://github.com/jimidini77/otus-linux-day21/blob/main/Screenshot01.png?raw=true)
+
+После настройки дашборда и сбора данных:
+
+![Dashboard](https://github.com/jimidini77/otus-linux-day21/blob/main/Screenshot02.png?raw=true)
 
 # **Результаты**
 
-Выполнено развёртывание nginx на стенде с использованием Ansible и ролей.
-Полученный в ходе работы `Vagrantfile` с настроенным Ansible provisioner помещен в публичный репозиторий.
-При поднятии ВМ выполняется установка и настройка Nginx с использованием роли Ansible
+Выполнено развёртывание Zabbix на стенде с настройкой дашбордов.
+Полученный в ходе работы `Vagrantfile` и скриншоты помещены в публичный репозиторий.
 
-- **GitHub** - https://github.com/jimidini77/otus-linux-day15
+- **GitHub** - https://github.com/jimidini77/otus-linux-day21
